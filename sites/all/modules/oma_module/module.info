@@ -1,0 +1,3 @@
+name = 'oma moduuli'
+description = 'tämä on tekemäni moduuli'
+core = 7.x
